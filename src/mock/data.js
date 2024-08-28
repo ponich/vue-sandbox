@@ -399,5 +399,15 @@ export const mockData = [
       id: 3,
       name: 'Work'
     }
+  },
+  {
+    id: 41,
+    name: 'Molly Nelson',
+    email: 'dasdas@ukr.net',
+    phone: '567-890-1234',
+    group: {
+      id: 2,
+      name: 'Family'
+    }
   }
 ]
